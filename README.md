@@ -16,6 +16,7 @@ java -jar Project05.jar
 ![start](res/example_run_start.png)
 ![setting](res/example_run_setting.png)
 ![game](res/example_run_game.png)
+![menu](res/example_run_menu.png)
 
 ## Credits
 
